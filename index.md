@@ -15,5 +15,11 @@
 #### Un caca de bonne qualité !!!
 ##### -5% donc 13.50€
 -----------------------------------------------
+### Nous contacter :
+#### https://discord.gg/zZS56qah3e
+-----------------------------------------------
+## Problèmes de livraisons
+### En raison de la crise sanitaire actuel nous ne pouvons pas livrer les commandes pour l'île de Nauru
+-----------------------------------------------
 
 ©💩 tout droit résevé : 1930-2021

@@ -15,7 +15,9 @@
 #### Un caca de bonne qualité !!!
 ##### 14.25 € (prix de base : 15€)
 -----------------------------------------------
-### Nous contacter :
+## Infos supplementaire
+-----------------------------------------------
+### Une question ?
 #### https://discord.gg/zZS56qah3e
 -----------------------------------------------
 ### Rassurez-vous

@@ -13,7 +13,7 @@
 -----------------------------------------------
 ### Caca Premium
 #### Un caca de bonne qualité !!!
-##### -5% donc 13.50€
+##### -5% donc 14.25
 -----------------------------------------------
 ### Nous contacter :
 #### https://discord.gg/zZS56qah3e

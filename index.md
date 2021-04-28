@@ -18,7 +18,8 @@
 ### Nous contacter :
 #### https://discord.gg/zZS56qah3e
 -----------------------------------------------
-### Tous c'est cacas sont élevés en pleine aire et n'ont pas était maltraités
+### Rassurez-vous
+#### Tous c'est cacas sont élevés en pleine aire et n'ont pas était maltraités
 -----------------------------------------------
 ## Problèmes de livraisons
 ### En raison de la crise sanitaire actuel nous ne pouvons pas livrer les commandes pour l'île de Nauru

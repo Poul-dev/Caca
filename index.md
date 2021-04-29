@@ -3,13 +3,14 @@
 -----------------------------------------------
 ## Nos modèles :
 -----------------------------------------------
-### NEW : Petit caca
-#### Petit caca pour petit budget
-##### 1€
------------------------------------------------
 ### Caca
 #### Juste un caca
 ##### 5 €
+-----------------------------------------------
+###### Nouveau
+### Petit caca
+#### Petit caca pour petit budget
+##### 1€
 -----------------------------------------------
 ### Caca perso
 #### Un caca personalisé rien que pour vous

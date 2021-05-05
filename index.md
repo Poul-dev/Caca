@@ -29,7 +29,7 @@
 ## Nos abonnements :
 -----------------------------------------------
 ### Caca Fidèle
-#### Notre carte de fidèlité pour -1% (additionné aux promotions)
+#### Notre carte de fidélité pour -1% (additionné aux promotions)
 ##### 0€
 -----------------------------------------------
 ### Caca Pass

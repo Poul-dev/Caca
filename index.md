@@ -26,6 +26,16 @@
 ##### 14.25 € (prix de base : 15€)
 ###### Note : ⭐⭐⭐⭐⭐
 -----------------------------------------------
+## Nos abonnements :
+-----------------------------------------------
+### Caca Fidèle
+#### Notre carte de fidèlité pour -1% (additionné aux promotions)
+##### 0€
+-----------------------------------------------
+### Caca Pass
+#### Un pass pour avoir toute les news sur les cacas en exclusivités avant tout le monde !!
+##### 5€/mois
+-----------------------------------------------
 ## Informations utiles :
 -----------------------------------------------
 ### Une question ?

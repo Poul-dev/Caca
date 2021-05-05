@@ -9,7 +9,6 @@
 ##### 5 €
 ###### Note : ⭐⭐
 -----------------------------------------------
-###### Nouveau
 ### Petit caca
 #### Petit caca pour petit budget
 ##### 1€

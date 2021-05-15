@@ -26,6 +26,24 @@
 ###### Note : ⭐⭐⭐⭐⭐
 -----------------------------------------------
 ###### Nouveau
+### Caca Végane
+#### Un caca issu d'une personne végane
+##### 7.50 €
+###### Note : ⭐⭐⭐
+-----------------------------------------------
+###### Nouveau
+### Caca Végétarien
+#### Un caca issu d'une personne végétarienne
+##### 7.50 €
+###### Note : ⭐⭐⭐
+-----------------------------------------------
+###### Nouveau
+### Caca Ramadan
+#### Un caca issu d'une personne pendant le ramadan
+##### 7.50 €
+###### Note : ⭐⭐⭐
+-----------------------------------------------
+###### Nouveau
 ## Nos abonnements :
 -----------------------------------------------
 ### Caca Fidèle

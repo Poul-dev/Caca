@@ -65,5 +65,8 @@
 ### Problèmes de livraisons
 #### En raison de la crise sanitaire actuel nous ne pouvons pas livrer les commandes pour l'île de Nauru
 -----------------------------------------------
+### Bientôt
+#### Une colaboration avec SpaceX
+-----------------------------------------------
 
 ©💩 tout droit résevé : 1930-2021

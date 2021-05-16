@@ -64,6 +64,9 @@
 ### Problèmes de livraisons
 #### En raison de la crise sanitaire actuel nous ne pouvons pas livrer les commandes pour l'île de Nauru
 -----------------------------------------------
+### Nos revendeurs officiels :
+#### Amazon
+-----------------------------------------------
 ### Bientôt
 #### Une colaboration avec SpaceX
 -----------------------------------------------

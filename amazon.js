@@ -6,4 +6,4 @@ bot.on('ready', function() {
     bot.user.setActivity('revendre des cacas').catch(console.error)
 })
 
-bot.login('ODQzNDAwNDE1NDg3NTkwNDMw.YKDT2A.uitKaLI2XKuYo4_AZXC6yQqTFNo')
+bot.login('ODQzNDAwNDE1NDg3NTkwNDMw.YKDT2A.mwZ_bOxw9n-zqobReIGGurlAxV4')

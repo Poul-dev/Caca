@@ -1,0 +1,14 @@
+{
+  "name": "revendeurs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "amazon.js",
+  "scripts": {
+    "start": "node amazon.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
+}
